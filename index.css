@@ -1,0 +1,168 @@
+body{
+
+    font-family: Georgia;
+    font-size: 13px;
+    background:#ebebea ;
+    
+   }
+
+.gray{
+background: #d0d0d0;
+}
+
+.toop{
+    height: 10px;
+    background: #894aa3;
+}
+.navbar-default {
+    background: white;
+    margin-bottom: 0;
+
+}
+
+.span{
+    display:inline;
+    width: 30px;
+    height: 30px;
+    border-radius:15px;
+    border: 1px solid red;
+}
+.form-group {
+    float: right;
+    margin-bottom: 10px;
+    clear: both;
+}
+h2{
+    text-align: center;
+    margin:0 10% 0;
+    padding: 15px;
+
+}
+.bgWhite{
+    background: white;
+}
+.img> img{
+    float: left;
+    width: 48px;
+    height: 48px;
+    display:inline;
+    margin:5px 10px  0;
+}
+.description {
+    overflow: hidden;
+   }
+.w{
+    color: white;
+}
+.footer{
+    background: #000;
+    color: white;
+    margin:0;;
+    height: 60px;
+    padding-top: 20px;
+}
+.footer>div+div{
+    float: right;
+}
+.collapsed>img{
+  margin-top: 100px;
+}
+
+p.right{
+    float: right;
+    margin-right: 15px;
+ }
+.contacts{
+
+    margin-top: 10px;
+
+}
+.color{
+    background: white;
+}
+.contacts>div{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.borderColor{
+    border-bottom: 1px solid #ebebeb;
+}
+h5{
+    padding-top:  10px;
+    padding-bottom: 10px;
+}
+b{
+    color: #999999;
+}
+p+a{
+    float: right;
+    color: #874ca0;
+}
+.btn {
+    color: #874ca0;
+    font-weight: bold;
+    border-radius: 5px;
+}
+form>input.form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ebebeb;
+    border-radius: 5px;
+}
+
+.thumbnail>img{
+    margin: auto;
+    width: 100%;
+}
+div.col-sm-6>div.thumbnail{
+    margin-top: 30px;
+    text-align: center;
+}
+.caption{
+    text-align: center;
+}
+.thumbnail>div>h4{
+    color: #874ca0;
+}
+article{
+
+    background: white;
+    padding: 30px 20px;
+}
+h4{
+    color:#874ca0; ;
+}
+.pading{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.form-group{
+    margin-bottom: -15px;
+    float: right;
+    margin-top: -60px;
+    position: relative;
+
+    
+}
+.form-control{
+    background: #ebebeb;
+}
+.glyphicon{
+    position: absolute;
+    right:5px;
+    top:20%;
+    border: 3px solid white;
+border-radius: 100%;
+    background: white;
+    color:#874ca0; ;
+}
+
+.navbar-header>img{
+    padding-top: 10px;
+}
+article{
+    background: white;
+}
+.sL{
+    text-align:center;
+}

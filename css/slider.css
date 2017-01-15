@@ -1,0 +1,43 @@
+
+.slider1 {position: relative;
+	width: 960px;
+	height: 380px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#imgs {	height: 380px;
+		width: 4800px;
+ 		margin-left: 0px;
+}
+img {float: left;}
+.radio, #switch1, #switch2 {position: absolute;
+							cursor: pointer;
+							}
+.radio {top: 350px;
+ 		width: 10px;
+ 		height: 10px;
+ 		border-radius: 10px;
+ 		background-color: rgba(140, 137, 137, 1);
+ 		border: 3px solid rgba(140, 137, 137, 1);
+ }
+#radio1 {left: 30px;
+		background-color: rgba(140, 137, 137, 0);
+ 	   }
+#radio2 {left: 50px;
+ 	   }
+#radio3 {left: 70px;
+ 	   }
+#radio4 {left: 90px;
+ 	   }
+#radio5 {left: 110px;
+ 	   }
+#switch1, #switch2 {top: 165px;
+	}
+#switch1 {left: 30px;
+
+		}
+#switch2 {right: 30px;
+		}
+@media screen and (max-width: 4k) {
+    body { background-color:red; }
+}
